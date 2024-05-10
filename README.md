@@ -12,4 +12,9 @@ The tool can be used in two ways. Either it reads a file from the working direct
 
 In the second case, simply copy an image to clipboard and then run `image_to_darkmode` comand. It will pull the image from the clipboard change it and past the updated version back to the clipboard. 
 
+## Example
+1. Make a screen shot and copy it to the clipboard with <kbd>⇧</kbd>+<kbd>⌃</kbd>+<kbd>⌘</kbd>+<kbd>4</kbd>. For example this image of a gaussian distribution: <img width="588" alt="image" src="https://github.com/adavidho/notion_tools/assets/105221763/4c3aee12-6605-41f8-995d-ee42e388153f"> 
+2. Run the `image_to_darkmode` comand in the terminal.
+3. And paste the result into your notion document using <kbd>⌘</kbd>+<kbd>V</kbd>, as seen with the example image below: <img width="588" alt="image" src="https://github.com/adavidho/notion_tools/assets/105221763/133fde70-f478-4551-b8cc-642368b8d98c">
+
 
